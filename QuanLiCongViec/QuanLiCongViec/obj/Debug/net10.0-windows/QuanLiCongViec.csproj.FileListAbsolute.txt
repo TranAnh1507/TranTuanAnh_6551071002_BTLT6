@@ -1,0 +1,17 @@
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\bin\Debug\net10.0-windows\QuanLiCongViec.exe
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\bin\Debug\net10.0-windows\QuanLiCongViec.deps.json
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\bin\Debug\net10.0-windows\QuanLiCongViec.runtimeconfig.json
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\bin\Debug\net10.0-windows\QuanLiCongViec.dll
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\bin\Debug\net10.0-windows\QuanLiCongViec.pdb
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\QuanLiCongViec.Form1.resources
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\QuanLiCongViec.FormGhiChu.resources
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\QuanLiCongViec.csproj.GenerateResource.cache
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\QuanLiCongViec.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\QuanLiCongViec.AssemblyInfoInputs.cache
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\QuanLiCongViec.AssemblyInfo.cs
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\QuanLiCongViec.csproj.CoreCompileInputs.cache
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\QuanLiCongViec.dll
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\refint\QuanLiCongViec.dll
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\QuanLiCongViec.pdb
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\QuanLiCongViec.genruntimeconfig.cache
+C:\BTL_LTTQ\QuanLiCongViec\QuanLiCongViec\obj\Debug\net10.0-windows\ref\QuanLiCongViec.dll

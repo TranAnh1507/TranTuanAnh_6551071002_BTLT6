@@ -1,0 +1,17 @@
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\BanVeXemPhim.Form1.resources
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\BanVeXemPhim.csproj.GenerateResource.cache
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\BanVeXemPhim.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\BanVeXemPhim.AssemblyInfoInputs.cache
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\BanVeXemPhim.AssemblyInfo.cs
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\BanVeXemPhim.csproj.CoreCompileInputs.cache
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\bin\Debug\net10.0-windows\BanVeXemPhim.exe
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\bin\Debug\net10.0-windows\BanVeXemPhim.deps.json
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\bin\Debug\net10.0-windows\BanVeXemPhim.runtimeconfig.json
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\bin\Debug\net10.0-windows\BanVeXemPhim.dll
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\bin\Debug\net10.0-windows\BanVeXemPhim.pdb
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\BanVeXemPhim.FormChonGhe.resources
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\BanVeXemPhim.dll
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\refint\BanVeXemPhim.dll
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\BanVeXemPhim.pdb
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\BanVeXemPhim.genruntimeconfig.cache
+C:\BTL_LTTQ\BanVeXemPhim\BanVeXemPhim\obj\Debug\net10.0-windows\ref\BanVeXemPhim.dll

@@ -1,0 +1,16 @@
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\bin\Debug\net10.0-windows\PhanMemQuanLyDT.exe
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\bin\Debug\net10.0-windows\PhanMemQuanLyDT.deps.json
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\bin\Debug\net10.0-windows\PhanMemQuanLyDT.runtimeconfig.json
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\bin\Debug\net10.0-windows\PhanMemQuanLyDT.dll
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\bin\Debug\net10.0-windows\PhanMemQuanLyDT.pdb
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\obj\Debug\net10.0-windows\PhanMemQuanLyDT.Form1.resources
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\obj\Debug\net10.0-windows\PhanMemQuanLyDT.csproj.GenerateResource.cache
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\obj\Debug\net10.0-windows\PhanMemQuanLyDT.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\obj\Debug\net10.0-windows\PhanMemQuanLyDT.AssemblyInfoInputs.cache
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\obj\Debug\net10.0-windows\PhanMemQuanLyDT.AssemblyInfo.cs
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\obj\Debug\net10.0-windows\PhanMemQuanLyDT.csproj.CoreCompileInputs.cache
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\obj\Debug\net10.0-windows\PhanMemQuanLyDT.dll
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\obj\Debug\net10.0-windows\refint\PhanMemQuanLyDT.dll
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\obj\Debug\net10.0-windows\PhanMemQuanLyDT.pdb
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\obj\Debug\net10.0-windows\PhanMemQuanLyDT.genruntimeconfig.cache
+C:\BTL_LTTQ\PhanMemQuanLyDT\PhanMemQuanLyDT\obj\Debug\net10.0-windows\ref\PhanMemQuanLyDT.dll

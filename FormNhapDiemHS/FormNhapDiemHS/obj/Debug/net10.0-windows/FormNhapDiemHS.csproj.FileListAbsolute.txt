@@ -1,0 +1,16 @@
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\bin\Debug\net10.0-windows\FormNhapDiemHS.exe
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\bin\Debug\net10.0-windows\FormNhapDiemHS.deps.json
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\bin\Debug\net10.0-windows\FormNhapDiemHS.runtimeconfig.json
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\bin\Debug\net10.0-windows\FormNhapDiemHS.dll
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\bin\Debug\net10.0-windows\FormNhapDiemHS.pdb
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\obj\Debug\net10.0-windows\FormNhapDiemHS.Form1.resources
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\obj\Debug\net10.0-windows\FormNhapDiemHS.csproj.GenerateResource.cache
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\obj\Debug\net10.0-windows\FormNhapDiemHS.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\obj\Debug\net10.0-windows\FormNhapDiemHS.AssemblyInfoInputs.cache
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\obj\Debug\net10.0-windows\FormNhapDiemHS.AssemblyInfo.cs
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\obj\Debug\net10.0-windows\FormNhapDiemHS.csproj.CoreCompileInputs.cache
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\obj\Debug\net10.0-windows\FormNhapDiemHS.dll
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\obj\Debug\net10.0-windows\refint\FormNhapDiemHS.dll
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\obj\Debug\net10.0-windows\FormNhapDiemHS.pdb
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\obj\Debug\net10.0-windows\FormNhapDiemHS.genruntimeconfig.cache
+C:\BTL_LTTQ\FormNhapDiemHS\FormNhapDiemHS\obj\Debug\net10.0-windows\ref\FormNhapDiemHS.dll

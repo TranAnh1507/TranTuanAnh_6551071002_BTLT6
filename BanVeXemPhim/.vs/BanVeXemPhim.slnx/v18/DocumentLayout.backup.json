@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BTL_LTTQ\\BanVeXemPhim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|c:\\btl_lttq\\banvexemphim\\banvexemphim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|solutionrelative:banvexemphim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|c:\\btl_lttq\\banvexemphim\\banvexemphim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|solutionrelative:banvexemphim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|c:\\btl_lttq\\banvexemphim\\banvexemphim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|solutionrelative:banvexemphim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|c:\\btl_lttq\\banvexemphim\\banvexemphim\\formchonghe.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|solutionrelative:banvexemphim\\formchonghe.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|c:\\btl_lttq\\banvexemphim\\banvexemphim\\formchonghe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|solutionrelative:banvexemphim\\formchonghe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|c:\\btl_lttq\\banvexemphim\\banvexemphim\\formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|solutionrelative:banvexemphim\\formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|c:\\btl_lttq\\banvexemphim\\banvexemphim\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|solutionrelative:banvexemphim\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|c:\\btl_lttq\\banvexemphim\\banvexemphim\\formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3986A4D3-D5E4-4114-89BC-6B9C9559EC67}|BanVeXemPhim\\BanVeXemPhim.csproj|solutionrelative:banvexemphim\\formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormChonGhe.resx",
+              "DocumentMoniker": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\FormChonGhe.resx",
+              "RelativeDocumentMoniker": "BanVeXemPhim\\FormChonGhe.resx",
+              "ToolTip": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\FormChonGhe.resx",
+              "RelativeToolTip": "BanVeXemPhim\\FormChonGhe.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-28T01:51:36.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormChonGhe.Designer.cs",
+              "DocumentMoniker": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\FormChonGhe.Designer.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhim\\FormChonGhe.Designer.cs",
+              "ToolTip": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\FormChonGhe.Designer.cs",
+              "RelativeToolTip": "BanVeXemPhim\\FormChonGhe.Designer.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAowLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:49:32.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormChonGhe.cs",
+              "DocumentMoniker": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\FormChonGhe.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhim\\FormChonGhe.cs",
+              "ToolTip": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\FormChonGhe.cs",
+              "RelativeToolTip": "BanVeXemPhim\\FormChonGhe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:49:27.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\Program.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhim\\Program.cs",
+              "ToolTip": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\Program.cs",
+              "RelativeToolTip": "BanVeXemPhim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:46:54.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhim\\Form1.Designer.cs",
+              "ToolTip": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\Form1.Designer.cs",
+              "RelativeToolTip": "BanVeXemPhim\\Form1.Designer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAAwBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:46:28.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\Form1.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhim\\Form1.cs",
+              "ToolTip": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\Form1.cs [Design]",
+              "RelativeToolTip": "BanVeXemPhim\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:45:07.662Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\Form1.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhim\\Form1.cs",
+              "ToolTip": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\Form1.cs",
+              "RelativeToolTip": "BanVeXemPhim\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:46:23.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormChonGhe.cs [Design]",
+              "DocumentMoniker": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\FormChonGhe.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhim\\FormChonGhe.cs",
+              "ToolTip": "C:\\BTL_LTTQ\\BanVeXemPhim\\BanVeXemPhim\\FormChonGhe.cs [Design]",
+              "RelativeToolTip": "BanVeXemPhim\\FormChonGhe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:49:18.981Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 146,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
